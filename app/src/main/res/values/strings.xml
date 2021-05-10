@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MoCalendar</string>
+    <string name="event_icon">Event Icon</string>
+    <string name="event_type">Event Type</string>
+    <string name="at">at</string>
+    <string name="till">till</string>
+    <string name="event_title">Event</string>
+    <string name="description">Description of the event</string>
+    <string name="assignment_title">assignment</string>
+</resources>

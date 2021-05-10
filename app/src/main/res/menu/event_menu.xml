@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/assignment"
+        android:icon="@drawable/assignment"
+        android:title="@string/assignment_title"
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/event"
+        android:icon="@drawable/event"
+        android:title="@string/event_title"
+        app:showAsAction="ifRoom|withText" />
+</menu>
